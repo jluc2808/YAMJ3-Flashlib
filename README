@@ -1,0 +1,42 @@
+YAM3-FLASHLIB
+=============
+
+A flashlite framework (of sorts) for use with YAMJv3 media system and embedded players supporting flashlite for the digital home.
+
+Bad Coding Disclaimer
+---------------------
+
+Some things might seem very backwards but care has been taken to find every microsecond of time and some rules are purposely broken to gain as much speed as possible for these sometimes extremely low powered media devices.
+
+Classes/Docs
+------------
+
+Coming
+
+Setting up a development enviroment
+-----------------------------------
+
+Some of the examples of this project make use of Cloud Media's development SDK.  This SDK is free but requires an agreement to get to the files.   You can sign up at https://developer.cloudmedia.com and you'll find the sdk files to download there.  You'll need to copy the com/syabas/ folders to this project in order to publish some of the examples.
+
+> Applications needed to develop
+
+This system is designed and written using Flash CS5.5.   You can use Flash CS4 or newer as they all support flashlite for the digital home.  If your unable to aquire this application (I believe it's discontinued now) there are free flash tools which are outlined how to setup and make the hello world here: http://www.networkedmediatank.com/showthread.php?tid=55774&pid=516044#pid516044
+
+> Setting up Flash
+
+There are instructions in the Cloud Media SDK to setup flash.  If your using CS4 they will work exactly how they are written.  In CS5.5 you will need to import the device profile and save it back out as a CS5.5 profile.
+
+Credits/Links
+-------------
+
+YAMJ3 Development: https://github.com/YAMJ
+YAMJ3 Development Forum: http://www.networkedmediatank.com/forumdisplay.php?fid=139
+
+Some information on using flash with the popcorn hour hardware: http://www.networkedmediatank.com/showthread.php?tid=62053
+Some information on using flash with the Dune player hardware: http://dune-hd.com/firmware/flash/
+
+Contact
+-------
+
+accident@dentedboxes.com
+www.dentedboxes.com
